@@ -1,0 +1,14 @@
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\bin\Debug\net8.0\Ex04.StudentManagement.exe
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\bin\Debug\net8.0\Ex04.StudentManagement.deps.json
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\bin\Debug\net8.0\Ex04.StudentManagement.runtimeconfig.json
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\bin\Debug\net8.0\Ex04.StudentManagement.dll
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\bin\Debug\net8.0\Ex04.StudentManagement.pdb
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.AssemblyInfoInputs.cache
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.AssemblyInfo.cs
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.csproj.CoreCompileInputs.cache
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.dll
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\refint\Ex04.StudentManagement.dll
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.pdb
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\Ex04.StudentManagement.genruntimeconfig.cache
+D:\admin\Documents\C#\ltw\Ex04.StudentManagement\obj\Debug\net8.0\ref\Ex04.StudentManagement.dll
